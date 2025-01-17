@@ -1,13 +1,15 @@
 # Walmart_Sales_Analysis
-Overview
+**Overview**
 
 This project analyzes Walmart's weekly sales data and examines the impact of various economic factors, including fuel prices, temperature, the Consumer Price Index (CPI), and unemployment. The goal is to identify trends, correlations, and insights that can help in understanding consumer behavior and sales patterns.
 
-Data Sources
+
+**Data Sources**
 
 The dataset was acquired from : https://www.kaggle.com/datasets/mikhail1681/walmart-sales/discussion/501960
 
 The dataset used for this analysis includes the following key variables:
+
 
 Dates: The time period for sales data.
 
@@ -23,7 +25,8 @@ CPI (Consumer Price Index): A measure of price levels for consumer goods and ser
 
 Unemployment: The unemployment rate in the store’s region.
 
-Objectives
+
+**Objectives**
 
 Understand Sales Trends: Analyze the overall trend in Walmart’s weekly sales.
 
