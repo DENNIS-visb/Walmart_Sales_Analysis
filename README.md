@@ -11,27 +11,29 @@ The dataset was acquired from : https://www.kaggle.com/datasets/mikhail1681/walm
 The dataset used for this analysis includes the following key variables:
 
 
-Dates: The time period for sales data.
+**Dates**: The time period for sales data.
 
-Store: The store number for which sales data is recorded.
+**Store**: The store number for which sales data is recorded.
 
-Weekly_Sales: The total sales recorded at each store for the given week.
+**Weekly_Sales**: The total sales recorded at each store for the given week.
 
-Fuel_Price: The average fuel price in the store’s region.
+**Fuel_Price**: The average fuel price in the store’s region.
 
-Temperature: The average temperature in the store’s region.
+**Holiday_Flag**: The occurrence of a holiday in the given week. 
 
-CPI (Consumer Price Index): A measure of price levels for consumer goods and services.
+**Temperature**: The average temperature in the store’s region.
 
-Unemployment: The unemployment rate in the store’s region.
+**CPI (Consumer Price Index)**: A measure of price levels for consumer goods and services.
+
+**Unemployment**: The unemployment rate in the store’s region.
 
 
 ## Objectives
 
-Understand Sales Trends: Analyze the overall trend in Walmart’s weekly sales.
+**Understand Sales Trends**: Analyze the overall trend in Walmart’s weekly sales.
 
-Examine Correlation with Economic Factors: Identify how sales are impacted by fuel prices, CPI, temperature, and unemployment.
+**Examine Correlation with Economic Factors**: Identify how sales are impacted by fuel prices, CPI, temperature, and unemployment.
 
-Store-Specific Analysis: Compare how different stores perform under varying economic conditions.
+**Store-Specific Analysis**: Compare how different stores perform under varying economic conditions.
 
-Time-Series Analysis: Evaluate seasonal trends and recurring patterns in sales.
+**Time-Series Analysis**: Evaluate seasonal trends and recurring patterns in sales.
